@@ -1,1 +1,1 @@
-# gyakorikerdesek-theme
+# gyakorikerdesek.hu - Sötét téma
